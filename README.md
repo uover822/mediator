@@ -1,6 +1,6 @@
-# msr-mediator
+# mediator
 
-[![Build Status](https://travis-ci.org/msr/msr-mediator.svg?branch=master)](https://travis-ci.org/msr/msr-mediator)
+[![Build Status](https://travis-ci.org/msr/mediator.svg?branch=master)](https://travis-ci.org/msr/mediator)
 [![Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/msr/msr-org)
 
 This is a repository in the microservice demonstration system for
