@@ -1,0 +1,4 @@
+
+FROM msr-mediator:1
+
+CMD ["node", "/app/srv/mediator-prod.js"]
